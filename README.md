@@ -1,3 +1,5 @@
+# This React project completes: fetching API to retrieve robots, display robots' cards and filter them based on search results.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
